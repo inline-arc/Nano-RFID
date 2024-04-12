@@ -1,6 +1,5 @@
-/*RFID tag scan code
- * https://srituhobby.com
- */
+
+
  
 #include <SPI.h>
 #include <MFRC522.h>
